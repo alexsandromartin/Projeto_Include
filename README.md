@@ -1,6 +1,6 @@
 # Lucas Paquetá - Biografia
 
-Esse projeto foi preparado para o desafio do processo seletivo Include Júnior 2023.2, e tem como objetivo a criação de um sistema web, para ser desenvolvido com uma página, como uma langind page por exemplo. A ideia é que seja construída uma página/site sobre qualquer personagem/celebridade, onde pode ser colocado qualquer tipo de informação que você acredite que seja relevante, como:
+Esse projeto foi preparado para o desafio do processo seletivo Include Júnior 2023.2, e tem como objetivo a criação de um sistema web, para ser desenvolvido com uma página, como uma lading page por exemplo. A ideia é que seja construída uma página/site sobre qualquer personagem/celebridade, onde pode ser colocado qualquer tipo de informação que você acredite que seja relevante, como:
 
 - Biografia
 - Trabalhos, filmes, livros, músicas
